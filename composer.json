@@ -1,5 +1,5 @@
 {
-    "name": "wemake180/bagisto-wompi",
+    "name": "wemake180/bagisto-wompi-panama",
     "description": "Wompi Payment Gateway integration for Bagisto E-commerce - Support for Colombia payments",
     "type": "bagisto-package",
     "keywords": [
